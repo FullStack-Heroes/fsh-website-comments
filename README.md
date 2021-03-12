@@ -1,1 +1,1 @@
-### The comments home for FullStackheroes using [https://utteranc.es/](utteranc)
+### The comments home for FullStackheroes using [utteranc](https://utteranc.es/)
